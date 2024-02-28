@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello!   
+I'm a undergraduate student majoring Computer Science and Technology from USTC.  
+I'm currently learning C++, Python, SQL and Computer Graphics.  
+You could reach me via QQ2119463243.
 
 <!--
 **Chiro-Wave/Chiro-Wave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
